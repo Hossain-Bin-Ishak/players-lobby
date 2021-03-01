@@ -1,0 +1,145 @@
+[
+	{
+        "id" : "apl-1",
+        "name" : "Asghar Afghan",
+	"age"	: "33 Years",
+	"country" : "Afghanistan",
+        "auction" : 1000,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/7795.png"
+	},
+  
+	{
+        "id" : "apl-2",
+        "name" : "Zia-ur-Rehman",
+	"age"	: "23 Years",
+	"country" : "Afghanistan",
+        "auction" : 1500,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/64659.png"
+	},
+
+	{
+        "id" : "apl-3",
+        "name" : "Zahir Khan",
+	"age"	: "22 Years",
+	"country" : "Afghanistan",
+        "auction" : 1800,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/65829.png"
+	},
+
+	{
+        "id" : "apl-4",
+        "name" : "Yamin Ahmadzai",
+	"age"	: "28 Years",
+	"country" : "Afghanistan",
+        "auction" : 2000,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/61918.png"
+	},
+
+	{
+        "id" : "apl-5",
+        "name" : "Wafadar Momand",
+	"age"	: "21 Years",
+	"country" : "Afghanistan",
+        "auction" : 2300,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/67528.png"
+	},
+
+	{
+        "id" : "apl-6",
+        "name" : "Sayed Shirzad",
+	"age"	: "26 Years",
+	"country" : "Afghanistan",
+        "auction" : 2500,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/58209.png"
+	},
+
+	{
+        "id" : "apl-7",
+        "name" : "Rashid Khan",
+	"age"	: "22 Years",
+	"country" : "Afghanistan",
+        "auction" : 2700,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/65748.png"
+	},
+
+	{
+        "id" : "apl-8",
+        "name" : "Amir Hamza",
+	"age"	: "29 Years",
+	"country" : "Afghanistan",
+        "auction" : 2900,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/10104.png"
+	},
+
+	{
+        "id" : "apl-9",
+        "name" : "Munir Ahmad",
+	"age"	: "25 Years",
+	"country" : "Afghanistan",
+        "auction" : 2000,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/64653.png"
+	},
+
+	{
+        "id" : "apl-10",
+        "name" : "Afsar Zazai",
+	"age"	: "27 Years",
+	"country" : "Afghanistan",
+        "auction" : 2200,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/58982.png"
+	},
+
+	{
+        "id" : "apl-11",
+        "name" : "Shahidullah Kamal",
+	"age"	: "22 Years",
+	"country" : "Afghanistan",
+        "auction" : 2600,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/64655.png"
+	},
+
+	{
+        "id" : "apl-12",
+        "name" : "Rahmat Shah",
+	"age"	: "27 Years",
+	"country" : "Afghanistan",
+        "auction" : 3000,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/63215.png"
+	},
+
+	{
+        "id" : "apl-13",
+        "name" : "Nasir Jamal",
+	"age"	: "27 Years",
+	"country" : "Afghanistan",
+        "auction" : 3200,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/63097.png"
+	},
+
+	{
+        "id" : "apl-14",
+        "name" : "Javed Ahmadi",
+	"age"	: "29 Years",
+	"country" : "Afghanistan",
+        "auction" : 3500,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/9661.png"
+	},
+
+	{
+        "id" : "apl-15",
+        "name" : "Ibrahim Zadran",
+	"age"	: "29 Years",
+	"country" : "Afghanistan",
+        "auction" : 3700,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/67519.png"
+	},
+
+	{
+        "id" : "apl-16",
+        "name" : "Hashmatullah Shahidi",
+	"age"	: "26 Years",
+	"country" : "Afghanistan",
+        "auction" : 4000,
+	"image"	 : "https://xmlns.cricketnext.com/cktnxt/scorecard/crk_player_images/players/128X128/59902.png"
+	}
+]
