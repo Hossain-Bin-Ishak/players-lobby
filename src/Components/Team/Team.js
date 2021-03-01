@@ -20,14 +20,20 @@ const Team = () => {
         const newCart = [...cart, player];
         setCart(newCart);
       };
-     
+//       let showPlayer = [];
+//     for (let i = 0; i < cart.length; i++) {
+//       const player = cart[i];
+      
+//       showPlayer = player;
+//     }
+//     console.log(player);
+// console.log(showPlayer);
     return (
         <div className='team-container'>
             <div className='players-state'>
-            <h2>Total Number of Players: {players.length}</h2>
-            <h2>Number of Players Picked: {cart.length}</h2>
-            <Cart cart={cart}></Cart>
-             
+                <h2>Total Number of Players: {players.length}</h2>
+                <h2>Number of Players Picked: {cart.length}</h2>
+                <Cart cart={cart}></Cart>
             </div>
             <div className="players-container">
                 {
