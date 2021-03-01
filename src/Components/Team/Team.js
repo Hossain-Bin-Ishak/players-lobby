@@ -20,14 +20,7 @@ const Team = () => {
         const newCart = [...cart, player];
         setCart(newCart);
       };
-     // const [singlePlayer, setSinglePlayer] = useState([]);
-     let total = [];
-     let [singlePlayer] = total;
-      for (let i = 0; i < cart.length; i++) {
-          const showPlayer = [...singlePlayer, cart[i]];
-          singlePlayer = [showPlayer];
-          }
-      console.log(singlePlayer);
+     
     return (
         <div className='team-container'>
             <div className='players-state'>
