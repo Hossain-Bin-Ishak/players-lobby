@@ -3,10 +3,10 @@ import Team from './Components/Team/Team'
 function App() {
   return (
     <div className="App">
-       
+
       <header className="App-header">
-      <Team></Team>
-      
+        <Team></Team>
+
       </header>
     </div>
   );

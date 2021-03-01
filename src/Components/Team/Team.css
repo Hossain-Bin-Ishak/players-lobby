@@ -1,16 +1,12 @@
 .players-state{
-    display: grid;
-    grid-template-columns: auto auto auto;
-    grid-gap: 10px;
-    padding: 10px;
-    text-align: center;
     background-color: rgb(122, 245, 225);
-    position:fixed;
-    z-index: 1;
-    width: 100%;
     box-shadow: 5px 5px 10px rgb(190, 173, 173);
-    height: 70px;
-    
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 8px solid rgb(0, 183, 255);
+ 
 }
 
 .players-container{
@@ -18,10 +14,14 @@
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
     padding: 10px;
-    
     border-radius: 5px;
     padding: 10px;
     position: relative;
-    top: 100px;
+    
+
+}
+.team-container{
+    display: grid;
+    grid-template-columns: auto auto;
 }
 
